@@ -1,4 +1,4 @@
-require "wtf_ruby/version"
+
 
 module WtfRuby
 
