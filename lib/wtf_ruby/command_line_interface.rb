@@ -1,6 +1,4 @@
-require_relative "../lib/scraper.rb"
-require_relative "../lib/class.rb"
-require_relative "../lib/meth.rb"
+
 require 'nokogiri'
 require 'colorize'
 require 'pry'
