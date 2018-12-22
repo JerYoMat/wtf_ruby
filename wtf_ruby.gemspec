@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
   spec.files         =["lib/wtf_ruby.rb", "lib/wtf_ruby/command_line_interface.rb", "lib/wtf_ruby/scraper.rb", "lib/wtf_ruby/meth.rb","lib/wtf_ruby/class.rb", "config/environment.rb"]
 
-  spec.executables   << 'wtf'
+  spec.executables   << 'wtf_ruby'
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.17"
