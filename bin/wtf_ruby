@@ -1,7 +1,0 @@
-#!/usr/bin/env ruby
-
-require_relative "../lib/wtf_ruby"
-
-# http://127.0.0.1:4000/
-sesh = WtfRuby::CommandLineInteface.new
-sesh.run 
